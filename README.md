@@ -12,5 +12,6 @@ This project is divided into two components. The first part involves the creatio
 - Subscribes to the same specific MQTT topic on the broker.
 - Retrieves and visualizes data sent from the mobile application.
 
-Interested individuals can view YouTube video demonstrations of the application.
+Interested individuals can view YouTube video demonstrations of the application
+
 https://www.youtube.com/watch?v=WK2tN-f0FGA&t
